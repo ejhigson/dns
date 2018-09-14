@@ -100,7 +100,7 @@ double loglikelihood (double theta[], int nDims, double phi[], int nDerived)
 
     double comp_logls[4] = { };
     for (int k=0; k<4; k++) {
-        double mu[100] = { };  // as we don't know nDim, just make arbitrarily big
+        double mu[100] = { };  // as we don't know nDim at compile time, just make bigger than we need
         mu[0] = mu1[k];
         mu[1] = mu2[k];
         comp_logls[k] = gaussian(theta, mu, sigma, nDims) + std::log(weights[k]);
