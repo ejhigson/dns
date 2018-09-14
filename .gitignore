@@ -1,3 +1,23 @@
+# Directories
+chains/*
+
+# Swap files
+*.sw*
+
+# PolyChord and dyPolyChord output files
+*.ini
+*.cfg
+*.txt
+*.pkl
+*.resume
+*.stats
+
+# Plots
+*.pdf
+
+# Github default python .gitignore
+# --------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
