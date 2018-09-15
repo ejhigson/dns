@@ -84,7 +84,7 @@ def main():  # pylint: disable=too-many-locals,too-many-branches,too-many-statem
     ninit = 20
     num_repeats = 10
     inds = list(range(1, 6))
-    dg_list = [None, 0, 1]
+    dg_list = [0.25]  # [None, 0, 0.25, 1]
     # PolyChord settings
     # ------------------
     use_mpi = True  # only affects compiled == True
