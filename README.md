@@ -5,7 +5,7 @@
 
 This repository contains the code used for making the results and plots in the dynamic nested sampling paper ([Higson et. al, 2017](https://arxiv.org/abs/1704.03459)).
 
-If you have any questions then feel free to email e.higson@mrao.cam.ac.uk. However, note that is research code and is not actively maintained.
+If you have any questions then feel free to email <e.higson@mrao.cam.ac.uk>. However, note that this is research code and is not actively maintained.
 
 ### Requirements
 
