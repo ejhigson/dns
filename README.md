@@ -1,9 +1,10 @@
 # Dynamic nested sampling
 
+[![DOI](http://img.shields.io/badge/DOI-10.1007/s11222-018-9844-0-darkblue.svg)](https://doi.org/10.1007/s11222-018-9844-0)
 [![arXiv](http://img.shields.io/badge/arXiv-1704.03459-B31B1B.svg)](https://arxiv.org/abs/1704.03459)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ejhigson/dns/blob/master/LICENSE)
 
-This repository contains the code used for making the results and plots in the dynamic nested sampling paper ([Higson et. al, 2017](https://arxiv.org/abs/1704.03459)).
+This repository contains the code used for making the results and plots in the dynamic nested sampling paper ([Higson et. al, 2019](https://doi.org/10.1007/s11222-018-9844-0)).
 
 If you have any questions then feel free to email <e.higson@mrao.cam.ac.uk>. However, note that this is research code and is not actively maintained.
 
@@ -37,10 +38,13 @@ The code is divided into two Jupyter notebooks:
 If it is useful for your research, then please cite the dynamic nested sampling paper. The BibTeX is:
 
 ```latex
-@article{Higson2017,
-author={Higson, Edward and Handley, Will and Hobson, Mike and Lasenby, Anthony},
+@article{Higson2019dynamic,
+author={Higson, Edward and Handley, Will and Hobson, Michael and Lasenby, Anthony},
 title={Dynamic nested sampling: an improved algorithm for parameter estimation and evidence calculation},
-journal={arXiv preprint arXiv:1704.03459},
-url={https://arxiv.org/abs/1704.03459},
-year={2017}}
+year={2019},
+journal={Statistics and Computing},
+doi={10.1007/s11222-018-9844-0},
+url={https://doi.org/10.1007/s11222-018-9844-0},
+archivePrefix={arXiv},
+arxivId={1704.03459}}
 ```
