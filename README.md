@@ -1,6 +1,6 @@
 # Dynamic nested sampling
 
-[![DOI](http://img.shields.io/badge/DOI-10.1007/s11222\-018\-9844\-0-darkblue.svg)](https://doi.org/10.1007/s11222-018-9844-0)
+[![DOI](http://img.shields.io/badge/DOI-10.1007/s11222--018--9844--0-darkblue.svg)](https://doi.org/10.1007/s11222-018-9844-0)
 [![arXiv](http://img.shields.io/badge/arXiv-1704.03459-B31B1B.svg)](https://arxiv.org/abs/1704.03459)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ejhigson/dns/blob/master/LICENSE)
 
